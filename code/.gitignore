@@ -1,0 +1,16 @@
+.DS_Store
+.vscode
+.settings
+.project
+.classpath
+*.class
+*.log
+*.out
+*.dSYM
+node_modules
+*.o
+*.bgv
+node_modules
+
+09/wasm/emsdk
+09/wasm/emsdk
